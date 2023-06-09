@@ -22,7 +22,9 @@ The power_factor, default is 10, is how aggressive the remove of the halo is to 
 
 This is a sample pair of images. The first image is Polaris taken on a night with some haze. The second image is after the Remove mono halo.py is run.
 
+Acquired
 <img src="./figs/Polaris with halo.jpg" align=left />
+Post halo removal
 <img src="./figs/Polaris without halo.jpg" align=right />
 
 
